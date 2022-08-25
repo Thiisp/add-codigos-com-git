@@ -1,0 +1,12 @@
+como usar o git:
+
+1° git init   = Criar um arquivo do git
+2° git status    = ver os arquivos
+3° git add .   = adicionar todos os arquivos
+4° git commit -m "mensagem"   = mostrar oq foi feito na versão
+5° git remote add origin link   = escolher o link do github q vc vai querer
+6° git push --set-upstream origin master   = necessario fazer antes de postar
+7° git push   = adicionar repositorio no github
+
+
+by: @thiisp :D
