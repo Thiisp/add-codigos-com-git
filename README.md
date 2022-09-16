@@ -3,7 +3,7 @@
 <h1> Seja muito bem vindo ao meu repositório! 🥷🏻 </h1>
 <a> Bom, aqui eu irei ensinar como adicionar códigos para o GitHub usando GIT! </a>
 <br>
-<a> leia o arquivo .txt para entender melhor! </a>
+<a> leia o arquivo tutorial.txt para entender melhor! </a>
 <br>
 <br>
 <h2> Sobre mim </h2>
